@@ -1,7 +1,9 @@
+# SPH0646 I2S MEMS MIC Raw data printing (that actually works 2023)
+
 Most of what I found in the internet for this specific module just doesn't work. 
 This piece of code seems to work. Make sure you avoid loose wires.
 
-<center> <img src="https://cdn-learn.adafruit.com/guides/cropped_images/000/001/592/medium640/pintou.jpg" alt="drawing" width="200" align="middle"> </img> </center> 
+<img src="https://cdn-learn.adafruit.com/guides/cropped_images/000/001/592/medium640/pintou.jpg" width="200" align="middle"> </img>
 
 
 Credits - 
